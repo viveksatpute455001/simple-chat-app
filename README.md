@@ -7,5 +7,5 @@ Emoji support: Express yourself with a wide range of emojis to add more fun to y
 
 ## Demo
 
-Watch the project demo video [here]([https://veed.io/view/53f2b2df-5451-486d-ae93-ed118b7a6e97](https://www.veed.io/view/53f2b2df-5451-486d-ae93-ed118b7a6e97?panel=share)https://www.veed.io/view/53f2b2df-5451-486d-ae93-ed118b7a6e97?panel=share).
+Watch the project demo video [here]([https://veed.io/view/53f2b2df-5451-486d-ae93-ed118b7a6e97](https://www.veed.io/view/53f2b2df-5451-486d-ae93-ed118b7a6e97?panel=share)https://www.veed.io/view/53f2b2df-5451-486d-ae93-ed118b7a6e97?panel=share]).
 
